@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMST4.CAROUSEL.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0473f7a9859f52f9063c8d52fc1f1c240e438836")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+365840f56dbd0f9c80fa3ee607a585a3aa22e204")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMST4.CAROUSEL.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMST4.CAROUSEL.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\MVC2°\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj": {}
+    "f:\\MVC2°\\AMST4.CAROUSELL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj": {}
   },
   "projects": {
-    "f:\\MVC2°\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj": {
+    "f:\\MVC2°\\AMST4.CAROUSELL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\MVC2°\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj",
+        "projectUniqueName": "f:\\MVC2°\\AMST4.CAROUSELL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj",
         "projectName": "AMST4.CAROUSEL.MVC",
-        "projectPath": "f:\\MVC2°\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj",
+        "projectPath": "f:\\MVC2°\\AMST4.CAROUSELL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.MVC.csproj",
         "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-        "outputPath": "f:\\MVC2°\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\obj\\",
+        "outputPath": "f:\\MVC2°\\AMST4.CAROUSELL\\AMST4.CAROUSEL.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config"
