@@ -1,0 +1,8 @@
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.csproj.AssemblyReference.cache
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.AssemblyInfoInputs.cache
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.AssemblyInfo.cs
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.csproj.CoreCompileInputs.cache
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.MvcApplicationPartsAssemblyInfo.cache
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.RazorAssemblyInfo.cache
+C:\MVC\MVC\AMST4.Store.Shoes\obj\Debug\net7.0\AMST4.Store.Shoes.RazorAssemblyInfo.cs

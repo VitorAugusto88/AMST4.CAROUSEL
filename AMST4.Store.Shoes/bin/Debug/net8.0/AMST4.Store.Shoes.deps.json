@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AMST4.Store.Shoes/1.0.0": {
+        "runtime": {
+          "AMST4.Store.Shoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMST4.Store.Shoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
